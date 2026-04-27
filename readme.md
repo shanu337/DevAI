@@ -1,4 +1,4 @@
-#DevAI 😈
+# DevAI 😈
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
 ![CLI](https://img.shields.io/badge/CLI-Typer-green)
@@ -7,7 +7,7 @@
 
 ---
 
-##⚡ Features
+## ⚡ Features
 
 - 🧠 Generate code from prompts
 - 📖 Explain code files
@@ -17,13 +17,13 @@
 
 ---
 
-##🚀 Installation
+## 🚀 Installation
 
 pipx install .
 
 ---
 
-##🧠 Usage
+## 🧠 Usage
 
 devai generate "binary search in python"
 devai explain main.py
@@ -32,7 +32,7 @@ devai chat "what is docker?"
 
 ---
 
-##🛠 Tech Stack
+## 🛠 Tech Stack
 
 - Python 🐍
 - Typer (CLI framework)
@@ -41,7 +41,7 @@ devai chat "what is docker?"
 
 ---
 
-##🔐 Setup
+## 🔐 Setup
 
 Create a ".env" file in the root directory:
 
@@ -49,7 +49,7 @@ GEMINI_API_KEY=your_api_key_here
 
 ---
 
-##📸 Demo
+## 📸 Demo
 
 devai generate "what is pipx?"
 
@@ -57,7 +57,7 @@ devai generate "what is pipx?"
 
 ---
 
-##🧩 Project Structure
+## 🧩 Project Structure
 
 devai/
 │
@@ -71,7 +71,7 @@ devai/
 
 ---
 
-##🚧 Future Improvements
+## 🚧 Future Improvements
 
 - 🔄 Context-aware conversations
 - 🧠 Memory support
@@ -81,13 +81,13 @@ devai/
 
 ---
 
-##👨‍💻 Author
+## 👨‍💻 Author
 
 Shanu 😈
 Future AI engineer 🚀
 
 ---
 
-##⭐ Show some love
+## ⭐ Show some love
 
 If you like this project, drop a ⭐ on the repo!
