@@ -59,6 +59,7 @@ devai generate "what is pipx?"
 
 ## 🧩 Project Structure
 
+'''bash
 devai/
 │
 ├── devai/
