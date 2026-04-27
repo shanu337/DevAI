@@ -57,20 +57,6 @@ devai generate "what is pipx?"
 
 ---
 
-## 🧩 Project Structure
-'''bash
-devai/
-│
-├── devai/
-│   ├── __init__.py
-│   ├── main.py
-│   ├── ai.py
-│
-├── setup.py
-├── README.md
-
----
-
 ## 🚧 Future Improvements
 
 - 🔄 Context-aware conversations
@@ -91,3 +77,17 @@ Future AI engineer 🚀
 ## ⭐ Show some love
 
 If you like this project, drop a ⭐ on the repo!
+---
+
+## 🧩 Project Structure
+
+```bash
+devai/
+│
+├── devai/
+│   ├── __init__.py
+│   ├── main.py
+│   ├── ai.py
+│
+├── setup.py
+└── README.md
